@@ -1,0 +1,26 @@
+[
+    {
+        "role": "user",
+        "parts": [
+            "test 1"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Hey there!  Intriguing test, isn't it? What can I conjure up for you today?  Let me know what you'd like to explore! \u2728\n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Hi\u1ec3n th\u1ecb l\u1ecbch s\u1eed chat"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Well, this *is* our first interaction! So the chat history is rather short at the moment.  You just sent \"test 1\" and then asked me to display the chat history.  Anything else I can help you with?  Perhaps you have a *real* question up your sleeve? \ud83d\ude09\n"
+        ]
+    }
+]
