@@ -1,5 +1,8 @@
 Mở folder trên Visual Studio Code
 
+ko cần đụng file main.py với login.py
+chỉ chạy UI.py
+
 Cài đặt môi trường ảo
 python -m venv venv
 .\venv\Scripts\activate
@@ -7,6 +10,7 @@ python -m venv venv
 Tải thư viện
 pip install google-generativeai
 pip install tk
+pip install speechrecognition pyttsx3 pyaudio
 
 Chạy chương trình:
 View -> Terminal -> Nhập: python Fairy.py

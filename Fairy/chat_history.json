@@ -22,5 +22,125 @@
         "parts": [
             "Well, this *is* our first interaction! So the chat history is rather short at the moment.  You just sent \"test 1\" and then asked me to display the chat history.  Anything else I can help you with?  Perhaps you have a *real* question up your sleeve? \ud83d\ude09\n"
         ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "ch\u00fang ta c\u00f3 th\u1ec3 tr\u00f2 truy\u1ec7n b\u1eb1ng ti\u1ebfng Vi\u1ec7t kh\u00f4ng"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Tuy\u1ec7t v\u1eddi!  R\u1ea5t vui \u0111\u01b0\u1ee3c tr\u00f2 chuy\u1ec7n v\u1edbi b\u1ea1n b\u1eb1ng ti\u1ebfng Vi\u1ec7t.  B\u1ea1n mu\u1ed1n n\u00f3i v\u1ec1 ch\u1ee7 \u0111\u1ec1 g\u00ec n\u00e0o?  H\u00e3y tho\u1ea3i m\u00e1i chia s\u1ebb nh\u00e9! \u2728\n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "No speech detected. Please try again."
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Ah, looks like you're having some trouble with speech recognition.  No worries!  Just type your message instead.  I'm all ears (or, well, all \"processors\").  What's on your mind? \ud83d\ude0a\n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "No speech detected. Please try again."
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Still having trouble?  Don't worry, typing works just as well!  What can I help you with today?  Let's get this conversation flowing! \u2728\n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Sorry, I couldn't understand that."
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "No problem at all! Happens to the best of us (even though I'm a computer and don't actually *speak*... you get the idea).  Just let me know what you'd like to chat about in a way I can understand, and I'll be happy to help! \ud83d\ude04\n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Sorry, I couldn't understand that."
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "No problem at all!  Happens to the best of us (even though I'm a computer, I pretend sometimes!). What did you want to ask or tell me? I'm ready for another try! \ud83d\ude0a\n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Tuy\u1ec7t v\u1eddi!  R\u1ea5t vui \u0111\u01b0\u1ee3c tr\u00f2 chuy\u1ec7n v\u1edbi b\u1ea1n b\u1eb1ng ti\u1ebfng Vi\u1ec7t.  B\u1ea1n mu\u1ed1n n\u00f3i v\u1ec1 ch\u1ee7 \u0111\u1ec1 g\u00ec n\u00e0o?  H\u00e3y tho\u1ea3i m\u00e1i chia s\u1ebb nh\u00e9! \u2728"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "T\u00f4i c\u0169ng r\u1ea5t vui!  V\u1eady b\u1ea1n mu\u1ed1n b\u00e0n v\u1ec1 chuy\u1ec7n g\u00ec n\u00e0o? Th\u1eddi ti\u1ebft, tin t\u1ee9c, c\u00f4ng ngh\u1ec7, n\u1ea5u \u0103n, hay b\u1ea5t c\u1ee9 \u0111i\u1ec1u g\u00ec kh\u00e1c b\u1ea1n th\u00edch?  \u0110\u1eebng ng\u1ea1i ng\u1ea7n nh\u00e9!  \ud83d\ude0a\n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "hi"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Hi there! What can I do for you today?  Let's chat! \ud83d\ude04\n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "say something funny"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Why don't scientists trust atoms? \n\nBecause they make up everything!\n\n\n...  I've got more where that came from if you'd like.  Just let me know! \ud83d\ude09\n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Hey there"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Hey there yourself! What's on your mind today?  Let me know how I can help! \ud83d\ude0a\n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "It's a bit laggy"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Oh no!  Lag is no fun. I'm sorry you're experiencing that. Is it my responses that are slow, or something else?  Knowing a bit more might help me figure out what's going on, though I can't fix technical issues outside my own processing.  Anything I *can* do to help in the meantime?\n\n\n"
+        ]
     }
 ]

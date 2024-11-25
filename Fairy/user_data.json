@@ -1,0 +1,25 @@
+{
+    "users": {
+        "user1": {
+            "password": "hashed_password1",
+            "chat_history": [
+                {
+                    "role": "model",
+                    "parts": [
+                        "Fairy: Hey there yourself! What's on your mind today?  Let me know how I can help! \ud83d\ude0a\n"
+                    ]
+                },
+                {
+                    "role": "model",
+                    "parts": [
+                        "Fairy: Oh no!  Lag is no fun. I'm sorry you're experiencing that. Is it my responses that are slow, or something else?  Knowing a bit more might help me figure out what's going on, though I can't fix technical issues outside my own processing.  Anything I *can* do to help in the meantime?\n\n\n"
+                    ]
+                }
+            ]
+        },
+        "user2": {
+            "password": "hashed_password2",
+            "chat_history": []
+        }
+    }
+}
